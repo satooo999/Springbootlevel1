@@ -11,6 +11,6 @@ public class WebApiController {
 
     @RequestMapping("/hello")
     private String hello() {
-        return "Spring Boot!!";
+        return "お疲れ様でした!!";
     }
 }
